@@ -40,4 +40,6 @@ http://127.0.0.1:8000/docs
   <img src="output/schemas.jpg" width="45%" />
 </p>
 
+This project is just for knowledge purpose to know about the backend API which is FastAPI!
+
 
