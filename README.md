@@ -23,10 +23,8 @@ Interactive API documentation:
 http://127.0.0.1:8000/docs
 
 # Output
-![Home Page](output/home.jpg)
+![Home Page](output/home.jpg) ![Register Response](output/register.jpg)
 
-![Register Response](output/register.jpg)
+![Analytics Response](output/analytics.jpg) ![Schemas](output/schemas.jpg)
 
-![Analytics Response](output/analytics.jpg)
 
-![Schemas](output/schemas.jpg)
