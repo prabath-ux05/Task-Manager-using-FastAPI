@@ -23,7 +23,7 @@ Interactive API documentation:
 http://127.0.0.1:8000/docs
 
 # Output
-![Home Page](screenshots/home.png)
+![Home Page](Task_managers/creenshots/home.jpg)
 
 ![Register Response](screenshots/register.jpg)
 
